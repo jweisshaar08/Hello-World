@@ -18,7 +18,9 @@ It's my first time using GitHub and I'm creating a sample dispository.
 ## **Files Used**
 
 README.md
+
 Sales Quiz.py
+
 Quiz File.xslx
 
 ## **Addition Documentation**
